@@ -1,8 +1,8 @@
 # Croatian News Quotation Extraction
 
 
-This repository for the paper **Quotations, Coreference Resolution, andSentiment Annotations in Croatian NewsArticles: An Exploratory Study**. 
-Our study deals with initial attempts at tagging a dataset in Croatian for direct news quotes. We have tagged a small corpus and reported various linguistic phenomenon that are encountered in the process.
+This repository for the paper **Quotations, Coreference Resolution, and Sentiment Annotations in Croatian NewsArticles: An Exploratory Study**. 
+Our study deals with initial attempts at tagging a dataset in Croatian for direct news quotes. Dataset comprises of 3 annotation layers for direct-quotes, speakers, verb-cue, pronoun-resolved speakers along with sentence-level sentiment of the direct speech. We have tagged a small corpus and reported various linguistic phenomenon that are encountered in the process.
 
 
 ### Data
