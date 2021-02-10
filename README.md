@@ -6,7 +6,7 @@ Our study deals with initial attempts at tagging a dataset in Croaian for direct
 
 
 ### Data
-
+The data files annoted using Webanno are present in the /data folder.
 
 
 ### Publication
@@ -17,3 +17,10 @@ The project has received funding from the European Union’s Horizon 2020 resear
 
 ### License
 This work is MIT licensed. See the LICENSE file for full details.
+
+### In progress
+- Updating the repository.
+- Pre-processed dataset available for direct usage.
+- Baseline models.
+- Initial Active-learning loop to increase the dataset instances.
+
