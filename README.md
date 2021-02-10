@@ -2,7 +2,7 @@
 
 
 This repository for the paper **Quotations, Coreference Resolution, andSentiment Annotations in Croatian NewsArticles: An Exploratory Study**. 
-Our study deals with initial attempts at tagging a dataset in Croaian for direct news quotes. We have tagged a small corpus and reported various linguistic phenomenon that are encountered in the process.
+Our study deals with initial attempts at tagging a dataset in Croatian for direct news quotes. We have tagged a small corpus and reported various linguistic phenomenon that are encountered in the process.
 
 
 ### Data
@@ -23,4 +23,3 @@ This work is MIT licensed. See the LICENSE file for full details.
 - Pre-processed dataset available for direct usage.
 - Baseline models.
 - Initial Active-learning loop to increase the dataset instances.
-
